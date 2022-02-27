@@ -1,0 +1,3608 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland. Or a booke : together with an exact mappe of the most principall townes, great and small, in the said kingdome. Wherein the longitude, latitude, and distance of one towne from another, as also the county or province such place is in, alphabetically set down. Very usefull for all sorts of people, that have or may have any interest in that kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87197</idno>
+            <idno type="STC">Wing I1016</idno>
+            <idno type="STC">Thomason E1175_3</idno>
+            <idno type="STC">ESTC R208884</idno>
+            <idno type="EEBO-CITATION">99867801</idno>
+            <idno type="PROQUEST">99867801</idno>
+            <idno type="VID">169431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169431)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 166:E1175[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland. Or a booke : together with an exact mappe of the most principall townes, great and small, in the said kingdome. Wherein the longitude, latitude, and distance of one towne from another, as also the county or province such place is in, alphabetically set down. Very usefull for all sorts of people, that have or may have any interest in that kingdome.</title>
+               </titleStmt>
+               <extent>[2], 21, [33] p. : ill., map  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Rothwell, at the signe of the Sun and Fountain, in Pauls Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Marsh 15th 1646"; the 7 in the imprint date has been crossed out and 1646 written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Description and travel --  Early works to 1800.</term>
+               <term>Ireland --  Gazetteers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169431:1" rendition="simple:additions"/>
+            <p>IRELAND.</p>
+            <p>
+               <hi>OR A BOOKE:</hi> Together with an Exact Mappe of the moſt principall Townes, great and ſmall, in the ſaid Kingdome.</p>
+            <p>Wherein the Longitude, Latitude, and diſtance of one Towne from another, as alſo the County or Province ſuch place is in, Alphabetically ſet down.</p>
+            <p>Very uſefull for all ſorts of people, that have or may have any intereſt in that Kingdome.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Rothwell,</hi> at the ſigne of the <hi>Sun</hi> and <hi>Fountain,</hi> in <hi>Pauls</hi> Church yard. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="map">
+               <pb facs="tcp:169431:2"/>
+               <p>
+                  <figure>
+                     <p>Ireland is ſituate vnder the .10.<hi rend="sup">th</hi> and .12.<hi rend="sup">th</hi> Climats the longeſt day being .16. howres and more, it ſtandeth to the weſt of Brittaine be<g ref="char:EOLhyphen"/>ing of length from South to North neere .400. and in bredth .200. miles, jt is jnvironed on all ſides with the Sea, haveing on the South part the Vergivian Sea on the weſt the Maine Weſterne Ocean on the North the Devcalidonian Sea, and on the eaſt the Iriſh ſea; which divides england and Scotland from Ireland, is devided into .4. provinces .1. Munſter .2. Connaght .3. Vlster .4. Lemston and theſe into 32 Counties.</p>
+                     <figDesc>top section of detailed map of Ireland and the western edge of Scotland and Wales</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:169431:3"/>
+               <p>
+                  <figure>
+                     <figDesc>bottom section of detailed map of Ireland and the western edge of Wales and England</figDesc>
+                     <p>BRITANIA quae olim Albion, inſula eſt totius orbis celeberrima, Germania Galle<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> figura triquetra obiacet, haber a Septentrione Deuealidomum ab ortu Gormanicu<g ref="char:cmbAbbrStroke">̄</g>, ab Auſtro Brita<g ref="char:cmbAbbrStroke">̄</g>nicum, et ab occaſu verginum mare. Nomine verò nunc mutato in duo duaſa eſt regna, Angli<g ref="char:EOLunhyphen"/>a<g ref="char:cmbAbbrStroke">̄</g> et Scotia<g ref="char:cmbAbbrStroke">̄</g>. Anglia coeli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſolo feliciſsimo utitur; coelum eni<g ref="char:cmbAbbrStroke">̄</g> ita mi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e temperatu<g ref="char:cmbAbbrStroke">̄</g>
+                        <expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> eſt ut aeſtates minus feruidae, et hyemes clementiſsimae ſint, calores eni<g ref="char:cmbAbbrStroke">̄</g> miti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ant pere<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLunhyphen"/>nes aurae et frigoris vim frequentes et ſedarae pluuiae, diſsoluunt. Solum fertile eſt, maxime pecoribꝰ. alendis aptu<g ref="char:cmbAbbrStroke">̄</g>, unde et laniſicijs abundat ma<g ref="char:cmbAbbrStroke">̄</g> ut lupos non habet, ita oues plurimos alit Stannum et plumbu<g ref="char:cmbAbbrStroke">̄</g> mittit, habet, metallorum fodinas et ſalis fontes, gemmis quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> non caret, et gagarem lapidem abundè profert, dem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ex omni<g ref="char:EOLunhyphen"/>bus mundi plagis, mercium huc allataru<g ref="char:cmbAbbrStroke">̄</g> copia affluit, modis omnibus munitiſsima et ubi<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> habitatiſsima Huius urbes, oppida mercatoria, caſtella et loca celebriora, hac tabula delineauimus. Caeterum admonendus es benigne inſpector, no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> differentiae cauſa, veteribus nominibus Aſteriſcu<g ref="char:cmbAbbrStroke">̄</g> prou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>locus tulit, vel praepoſuiſse, vel alioqui poſtpoſuiſse</p>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="1" facs="tcp:169431:3"/>
+               <head>
+                  <hi>DIRECTIONS TO KNOW</hi> where any Towne you deſire to find out lies in the Mapp immediately.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F you deſire to finde out in the Mapp, the Towne of <hi>Knockfergus</hi> I looke in the Alphabet, and I finde the Towne, and finding the Towne, I ſee in the Booke, it lies in longitude 16. degrees, and 24. minutes in latitude, 54. degrees, and 36. minutes: bring with one of your fingers a ſtrait line from the degree and minutes of the longi<g ref="char:EOLhyphen"/>tude, and with another of your fingers, a ſtrait line from the degree and minutes of the latitude till theſe two lines meete in a ſquare, and there you shall ſee the Towne of <hi>Knockfergus:</hi> this is a rule for all other
+<pb n="2" facs="tcp:169431:4"/> Townes that you deſire to know where they lie in the Mapp.</p>
+               <div type="section">
+                  <head>Directions to finde the diſtance from one Towne to the other in the Mappe.</head>
+                  <p>IF you would know how farre <hi>Dublin</hi> is from <hi>Knockfergus,</hi> take a pair of Compaſ<g ref="char:EOLhyphen"/>ſes, and put them to the Scale of Miles at the foot of the Mapp, extend them as long as the Scale is, which is 40 miles: every black, and every white being a mile: Then meaſure from the Towne of <hi>Knockfergus</hi> to the City of <hi>Dublin,</hi> and ſo many times as it is the length of the Scale, ſo many times 40 miles it is from one Towne to the other: Or if you would ſee any other Towne that is not ſo much as 40 miles diſtant from <hi>Dublin,</hi> then take the meaſure from <hi>Dublin</hi> to the Towne you would know, and then ſet your Compaſſes to the Scale of miles, and you shall ſee how many miles it is by the Compaſſe, counting every blacke a mile, and every white a mile, and that is the diſtance: by this you may know the
+<pb n="3" facs="tcp:169431:4"/> diſtance of any one Towne to another.</p>
+                  <p>If you would know by the Book what Province any Towne you looke for is in: the name of the Province is ſet downe by the Towne in the Book.</p>
+               </div>
+               <div type="section">
+                  <head>How to know the longitude, and the latitude, and the degrees, and the minutes.</head>
+                  <p>ON the top of the Mapp of <hi>Ireland,</hi> you shall finde written longitude, and on the ſide of the Mapp of <hi>Ireland,</hi> you shall finde written latitude, the degrees are mar<g ref="char:EOLhyphen"/>ked with figures, the minutes are the black and the white: that you ſee every blacke is 4. minutes, and ſo is a white; at every twentieth minute there is a ſmall ſtroke: there is three of them ſmall ſtrokes between every degree, which is 60 minutes, which makes a degree, every black and white be<g ref="char:EOLhyphen"/>ing 4. minutes.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:169431:5"/>
+               <head>IRELAND.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>RELAND is ſituate under the tenth and twelfth climates: The longeſt day being 16. houres and more: It ſtandeth to the weſt of Britaine, being of length from South to North neere foure hundred miles, and in bredth two hundred miles: the moſt uſuall name amongſt wri<g ref="char:EOLhyphen"/>ters is <hi>Jernia,</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he moderne <hi>Hibernia,</hi> the English <hi>Ireland,</hi> the Inhabitants <hi>Eryn-land,</hi> which in their language ſignifieth <hi>Weſterne land:</hi> It is environed on all ſides with the ſea, having on the South part the Virginian ſea; on the weſt, the main weſterne Ocean; on the North, the Deucalidonian ſea; and on the Eaſt, the Irish ſea, which divideth England and Scotland from Ireland.</p>
+               <pb n="5" facs="tcp:169431:5"/>
+               <p>This Iſland or the ſoil, it is full of moun<g ref="char:EOLhyphen"/>taines, hills, woods, bogs and lakes, but abundantly fruitfull, as may be ſeen where the induſtry of man playeth the Midwife with the Earth, in helping her to bring forth.</p>
+               <p>It nourisheth no venomous beaſts, ſo that a man may ſleepe ſecurely under a hedge, and in the open field upon the ground: All the breed thereof except wo<g ref="char:EOLhyphen"/>men and gray-hounds, are leſſer then in England.</p>
+               <p>The native people are generally ſtrong, and nimble of body, careleſſe of their lives, patient of cold and hunger, implacable, in enmity, ſavage, cruell, trecherous and ſu<g ref="char:EOLhyphen"/>perſtitious, eaſily adicted, and extreamly laborious, eſpecially thoſe commonly cal<g ref="char:EOLhyphen"/>led the <hi>Kernes</hi> or <hi>wilde Irish;</hi> but ſuch as are bred with the English and Scots are more civilized.</p>
+               <p>Since the firſt plantation there, of our English, the people have been governed by a Vice Roy, who wee uſually call the Lord Deputy, to whom there commeth no Vice
+<pb n="6" facs="tcp:169431:6"/> Roy in Europe more neer the M jeſtie and Prerogative of a King.</p>
+               <p>Ireland is divided into foure Provinces,
+<list>
+                     <item>1. <hi>Munſter.</hi>
+                     </item>
+                     <item>2. <hi>Connaght.</hi>
+                     </item>
+                     <item>3. <hi>Vlſter.</hi>
+                     </item>
+                     <item>4. <hi>Lemſter.</hi>
+                     </item>
+                  </list> and theſe into 32. Counties.</p>
+               <p>The Metropolis of Ireland is Dublin, ſeated on the hiffe in Lemſter, wherein is an Vniverſirie: This City after the English conqueſt was people by a Colony of our Briſtoll men.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:169431:6"/>
+               <head>A BOOKE CON<g ref="char:EOLhyphen"/>TAINING THE GREAT and ſmall Townes of <hi>IRELAND.</hi>
+               </head>
+               <div n="A" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">A</cell>
+                           <cell role="label">
+                              <hi>Province,</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>
+                                 <seg rend="decorInit">I</seg>Sles of Aran,</hi>
+                           </cell>
+                           <cell>Ul.</cell>
+                           <cell>13</cell>
+                           <cell>24</cell>
+                           <cell>55</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Almore,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>54</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ashrow,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>54</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Antrim,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>ARMAGH,</cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>ARDEE,</cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>53</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Arglas,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Anaghelome,</hi>
+                           </cell>
+                           <cell>Ul.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Audley,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>32</cell>
+                           <cell>54</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Arkin,</hi>
+                           </cell>
+                           <cell>Ul.</cell>
+                           <cell>16</cell>
+                           <cell>24</cell>
+                           <cell>54</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>N. Argum,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>54</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Aghren,</hi>
+                           </cell>
+                           <cell>Ul.</cell>
+                           <cell>16</cell>
+                           <cell>48</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <pb n="8" facs="tcp:169431:7"/>
+                        <row>
+                           <cell>
+                              <hi>Aghugh Ilen,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ardtra,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>30</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ashrow,</hi>
+                           </cell>
+                           <cell>Ul.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>54</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ardiagh,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>14</cell>
+                           <cell>48</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>ABOY,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Arbarhen,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>48</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>ARCKLOE</cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Arcker,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>B. Anley,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Anker,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>ARDRAGH,</cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>23</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>ATLON,</cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>
+                                 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>yllelo,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Asketen,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Adare,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ardey,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>B. Adam,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Arne Gragh,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ardmore,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>08</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="B" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">B.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">mi.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Band haven,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Balagham,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>55</cell>
+                           <cell>00</cell>
+                        </row>
+                        <pb n="9" facs="tcp:169431:7"/>
+                        <row>
+                           <cell>
+                              <hi>Belfaſt,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>24</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>4</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Benmadigang,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>16</cell>
+                           <cell>54</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Benebal,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>52</cell>
+                           <cell>54</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Blackwater,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>54</cell>
+                           <cell>2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Banger</hi> M,</cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>32</cell>
+                           <cell>54</cell>
+                           <cell>3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bonava<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ga,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>24</cell>
+                           <cell>55</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Beneoll,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>12</cell>
+                           <cell>54</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Belterber<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>54</cell>
+                           <cell>2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Balemony,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>44</cell>
+                           <cell>54</cell>
+                           <cell>5<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Balan Caſt.</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>12</cell>
+                           <cell>55</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bale wolley bay,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bale wolley Caſt.</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>13</cell>
+                           <cell>12</cell>
+                           <cell>54</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Blaky,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>12</cell>
+                           <cell>53</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bramok,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>14</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Barne,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Barell,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bannogh bay,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Beleeks,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>28</cell>
+                           <cell>54</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Bla krock,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>22</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Batevant,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>10</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Barrecourt,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="C" type="section">
+                  <pb n="10" facs="tcp:169431:8"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">C</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cladagh bay,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>13</cell>
+                           <cell>40</cell>
+                           <cell>55</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cold<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>agh haven,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>28</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Coldagh Towne,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>28</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>CARLINGFORD,</cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>beg,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>54</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cooke,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>53</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Clanall,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Colrane Caſt.</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>44</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>CARLINGFORD HAV.</cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>02</cell>
+                           <cell>54</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Clogherpoint,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>12</cell>
+                           <cell>53</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>CARBREF,</cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cloney,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cerbeley</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>16</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cloney bolk,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>CATERLEGH,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>02</cell>
+                           <cell>52</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>M. <hi>Corbelilee,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>B. <hi>Coghland,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Colraney,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>48</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carick,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cantwell,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>04</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carikbrack,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cloven,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>54</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Creway,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>B. <hi>Cragh,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>44</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <pb n="11" facs="tcp:169431:8"/>
+                        <row>
+                           <cell>
+                              <hi>Colman,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>CLARE,</cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>48</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Clonefort,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>24</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carmin,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>24</cell>
+                           <cell>52</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carowmore,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Caricknyfeld,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Crome,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carbre Caſt.</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cyty,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>CORKE,</cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>CARICK,</cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cashell,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Clonmel,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cloney,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carigonia,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Cary kroon,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Caſteltan,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>24</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="D" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">D</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dunſeeke,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>DUNGALL,</cell>
+                           <cell>Ulſt.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dungannon,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>54</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>DUNDALKE,</cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>52</cell>
+                        </row>
+                        <pb n="12" facs="tcp:169431:9"/>
+                        <row>
+                           <cell>
+                              <hi>Dunmo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>58</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Doneregy,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>44</cell>
+                           <cell>54</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>DRODAGH,</cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>44</cell>
+                           <cell>53</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>DRODAGH <hi>Haven,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>53</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dund alke haven,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>08</cell>
+                           <cell>53</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dung all haven</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>DUBLIN,</cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dublin haven,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>08</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dromrane,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Heſterbeg,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>10</cell>
+                           <cell>53</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dolkney,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>16</cell>
+                           <cell>53</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dundroſe,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dingham,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>48</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Doe,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Doneſanan,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>4</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>DINGLE,</cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Donekyne,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>04</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Doneboy</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>08</cell>
+                           <cell>52</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Donin,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>56</cell>
+                           <cell>52</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Donghan,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>28</cell>
+                           <cell>51</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Donemore,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>51</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Drynad,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Donin,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>24</cell>
+                           <cell>51</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dondanor,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>56</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <pb n="13" facs="tcp:169431:9"/>
+                        <row>
+                           <cell>
+                              <hi>Dongora,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dovegner,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>04</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="E" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">E.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Enishone,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13.</cell>
+                           <cell>32.</cell>
+                           <cell>52.</cell>
+                           <cell>8.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="F" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">F.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Fayr Forland,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>28</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lough Foyde haven,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>M. <hi>Faure,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>B <hi>Fuller,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Fadda,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>52</cell>
+                           <cell>54</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Fenna,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>44</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Farth beg,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>44</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Fetherd,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>44</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="G" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">G.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell>
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell>
+                              <hi>min.</hi>
+                           </cell>
+                           <cell>
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell>
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Glanatine bay,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>36</cell>
+                           <cell>54</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Gilbert,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Geshell,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>GHILDARE,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <pb n="14" facs="tcp:169431:10"/>
+                        <row>
+                           <cell>
+                              <hi>Glosher,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Glaskary,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>GALWAY,</cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>36</cell>
+                           <cell>53</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Gregory,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="H" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell>H.</cell>
+                           <cell>
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell>
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell>
+                              <hi>min.</hi>
+                           </cell>
+                           <cell>
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell>
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hellenshed,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hanoloeſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>28</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>M. <hi>Hores,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>12</cell>
+                           <cell>53</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Halywood,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hoghmor,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="I" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">I.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>S. <hi>Johns point,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>18</cell>
+                           <cell>32</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Inchegrad,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>28</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="K" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">K.</cell>
+                           <cell role="label">Prov.</cell>
+                           <cell role="label">lon.</cell>
+                           <cell role="label">min.</cell>
+                           <cell role="label">lat.</cell>
+                           <cell role="label">mi.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kulmore,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>53</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilmakrenan,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilmack,</hi>
+                           </cell>
+                           <cell>Ulſt.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>55</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>KNOCKFERGUS,</cell>
+                           <cell>Ulſt.</cell>
+                           <cell>16</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>40</cell>
+                        </row>
+                        <pb n="15" facs="tcp:169431:10"/>
+                        <row>
+                           <cell>
+                              <hi>Kilrough,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>54</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kelroe,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Knoger,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>28</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kiltober,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>53</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilcore,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>53</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kelkeny,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>KINGSTOWN,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilmertyn,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>KILKENNY,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilmaculo,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Killegh,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>Barony of KINGSTOWN,</cell>
+                           <cell>C.</cell>
+                           <cell>13</cell>
+                           <cell>08</cell>
+                           <cell>53</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Killaley,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>12</cell>
+                           <cell>54</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kellone,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilmore,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>KINSALE,</cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>04</cell>
+                           <cell>52</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilga,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>51</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kariglas,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Kilmaloke,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>08</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Knokerden,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="L" type="section">
+                  <pb n="16" facs="tcp:169431:11"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">L.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Liffen,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>44</cell>
+                           <cell>54</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Leyſennes,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>04</cell>
+                           <cell>53</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lemwood, Caſt.</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>08</cell>
+                           <cell>54</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Longwood,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lacash,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>16</cell>
+                           <cell>53</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lowater,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>LONGFORD,</cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>Mo. <hi>Leray,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>53</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>LYMERICK,</cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Longhill,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Liſtoul,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Letter,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Loughan,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>51</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lemeon,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>12</cell>
+                           <cell>51</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>LISMORE,</cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lyons,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>44</cell>
+                           <cell>24</cell>
+                           <cell>52</cell>
+                           <cell>16</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="M" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">M.</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Markington</hi> bay,</cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>12</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Mac Swinne,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>32</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <pb n="17" facs="tcp:169431:11"/>
+                        <row>
+                           <cell>
+                              <hi>Mac Swinne dogh,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>13</cell>
+                           <cell>36</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Monaghanfort,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>The <hi>Maydens,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>40</cell>
+                           <cell>54</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>MOLANGER,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Moneton,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>20</cell>
+                           <cell>53</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Moy Caſt.</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Mologha,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Morley,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>20</cell>
+                           <cell>53</cell>
+                           <cell>30</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Madloghony,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Mule Caſt.</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>56</cell>
+                           <cell>53</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Mi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>haem,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>04</cell>
+                           <cell>52</cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Mang,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>C <hi>Magronne,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Miſſin head,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>00</cell>
+                           <cell>51</cell>
+                           <cell>44</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="N" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">N.</cell>
+                           <cell role="label">Prov.</cell>
+                           <cell role="label">lon.</cell>
+                           <cell role="label">min.</cell>
+                           <cell role="label">lat.</cell>
+                           <cell role="label">mi.</cell>
+                        </row>
+                        <row>
+                           <cell>NEWRY,</cell>
+                           <cell>Ul.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Navant,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>12</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Neghler,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>53</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>New Caſtle,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>20</cell>
+                           <cell>53</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Newton,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <pb n="18" facs="tcp:169431:12"/>
+                        <row>
+                           <cell>
+                              <hi>New,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Newton,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>New Caſtle,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>New Caſtle,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>53</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Newtown,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>36</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Newtown,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>New Caſtle,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>44</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="O" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">O</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Olderſteet haven,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>36</cell>
+                           <cell>54</cell>
+                           <cell>48</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="P" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">P</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Pengonell,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>53</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Pomoy,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>16</cell>
+                           <cell>58</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Pollydragh,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Polloguere,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Polloguere,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>12</cell>
+                           <cell>52</cell>
+                           <cell>16</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="Q" type="section">
+                  <pb n="19" facs="tcp:169431:12"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Q</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>QUENE STOWN,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>B. <hi>Quella,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>20</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="R" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">R</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Richard,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Roghin,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Red Castle,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>B. <hi>Raygh,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>12</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Roy,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>53</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>C. <hi>Rudder,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Roſemonagher,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>14</cell>
+                           <cell>08</cell>
+                           <cell>52</cell>
+                           <cell>48</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="S" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">S</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Silver hill,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>12</cell>
+                           <cell>55</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Skee,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>54</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>Lough <hi>Swilly haven,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Stonegrang,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>04</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Stameourt,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Slego,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>20</cell>
+                           <cell>54</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Stakly,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>13</cell>
+                           <cell>00</cell>
+                           <cell>53</cell>
+                           <cell>56</cell>
+                        </row>
+                        <pb n="20" facs="tcp:169431:13"/>
+                        <row>
+                           <cell>C. <hi>Sibbell,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>36</cell>
+                           <cell>52</cell>
+                           <cell>
+                              <gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>8</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Sle<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> An<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ragh,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>12</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>B. <hi>Sharen,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>20</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Shryne,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>16</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="T" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">T</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Temple ſtranhurſland,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>14</cell>
+                           <cell>24</cell>
+                           <cell>54</cell>
+                           <cell>48</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tollagh Corbet,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>08</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tor Bay,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>16</cell>
+                           <cell>28</cell>
+                           <cell>55</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>TRYMME,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>24</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Trev<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>r,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tonsternog,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>14</cell>
+                           <cell>52</cell>
+                           <cell>53</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tollogh,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>52</cell>
+                           <cell>53</cell>
+                           <cell>16</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Thomas town,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tollogh,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ternes,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>44</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Temple,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tromro,</hi>
+                           </cell>
+                           <cell>Con.</cell>
+                           <cell>23</cell>
+                           <cell>08</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>M. <hi>Tomaregh,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>13</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Temple more,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>32</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Torkbeg,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>12</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="W" type="section">
+                  <pb n="21" facs="tcp:169431:13"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">W</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Wall,</hi>
+                           </cell>
+                           <cell>Vl.</cell>
+                           <cell>15</cell>
+                           <cell>36</cell>
+                           <cell>54</cell>
+                           <cell>08</cell>
+                        </row>
+                        <row>
+                           <cell>Ba <hi>William,</hi>
+                           </cell>
+                           <cell>Lein.</cell>
+                           <cell>14</cell>
+                           <cell>32</cell>
+                           <cell>53</cell>
+                           <cell>28</cell>
+                        </row>
+                        <row>
+                           <cell>WICKIO,</cell>
+                           <cell>Lein.</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>52</cell>
+                           <cell>52</cell>
+                        </row>
+                        <row>
+                           <cell>WEXFORD,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>WEXFORD haven,</cell>
+                           <cell>Lein.</cell>
+                           <cell>15</cell>
+                           <cell>48</cell>
+                           <cell>52</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>WATERFORD,</cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>20</cell>
+                           <cell>52</cell>
+                           <cell>24</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Whyt knight,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>14</cell>
+                           <cell>40</cell>
+                           <cell>52</cell>
+                           <cell>28</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div n="Y" type="section">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Y</cell>
+                           <cell role="label">
+                              <hi>Prov.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lon.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>min.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>lat.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>mi.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Youghal,</hi>
+                           </cell>
+                           <cell>Moun.</cell>
+                           <cell>15</cell>
+                           <cell>04</cell>
+                           <cell>52</cell>
+                           <cell>08</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:169431:14"/>
+               <head>THE COVNTIES OF IRELAND, as they are divided.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Mounſter.</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>Limmerick:</item>
+                              <item>Kery:</item>
+                              <item>Corke:</item>
+                              <item>Waterford:</item>
+                              <item>Deſmond:</item>
+                              <item>Holy Croſſe in Tipperary.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Leinſter.</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>Eaſt meath:</item>
+                              <item>Weſt meath:</item>
+                              <item>Killkenny:</item>
+                              <item>Caterragh:</item>
+                              <item>Queens County:</item>
+                              <item>Kings County:</item>
+                              <item>Kildare:</item>
+                              <item>Wexford:</item>
+                              <item>Dubline:</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:169431:14"/>
+                     <row>
+                        <cell>
+                           <hi>Connaght.</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>Clare: <hi>or</hi> Towmund:</item>
+                              <item>Gallaway:</item>
+                              <item>Maio:</item>
+                              <item>Slego:</item>
+                              <item>Letrim:</item>
+                              <item>Roſcoman:</item>
+                              <item>Longford.</item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Vlſter.</hi>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>Dunghall, <hi>or</hi> Tyr Connel:</item>
+                              <item>Tirone upper:</item>
+                              <item>Tirone nether:</item>
+                              <item>Farmanagh:</item>
+                              <item>Cavon:</item>
+                              <item>Monaghan:</item>
+                              <item>Colrane:</item>
+                              <item>Antrim:</item>
+                              <item>Downe:</item>
+                              <item>Armagh:</item>
+                              <item>Lough.</item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:169431:15"/>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:169431:15"/>
+            <head>THE BLOODY ATTEMPTS Vpon the Kingdom of <hi>IRELAND</hi> in general, and on <hi>DUBLIN</hi> in parti<g ref="char:EOLhyphen"/>cular; and how it firſt began.</head>
+            <p>UPon the three and twentieth day of October 1641. the Caſtle of <hi>Dublin</hi> ſhould have beene ſurpriſed, (as at that time it might eaſily have been) for there was no fear or ſuſpition of Treachery, there being at that time 400. Iriſh Papiſts elected out of moſt parts of Ireland, deſperate perſons, deſigned and appointed for that bloudy and deſperate attempt, all lodging and ſculking in ſeveral places of the City and Suburbs, waiting and expecting the time and watch-word, when to give the onſet. One of their own Country-men at that time, ab<g ref="char:EOLhyphen"/>horring ſo foul and deteſtable a Treaſon, revealed it to Sir <hi>William Parſons</hi> Knight and Baronet, Ma<g ref="char:EOLhyphen"/>ſter of the Court of Wards and Liveries, and Sir <hi>Iohn Borlaſe</hi> Knight, Maſter of the Ordnance, both Lords Juſtices of the Kingdom of Ireland. The party who diſcovered the plot, had been formerly a ſervant to Sir <hi>Iohn Clotworthy,</hi> but at the time when he revealed their deſigne, he ſerved one Capt. <hi>Mack-Mahowne</hi> an Iriſhman, who lodged at
+<pb facs="tcp:169431:16"/> the ſigne of the artichoak, vulgarly called S. <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> Abbey in the ſuburbs of the City of Dublin, The ſervants name was <hi>Owen Mack-Connel,</hi> who being with his maſter Capt. <hi>Mack-Mahown,</hi> in a houſe in Cookſtreet, at the lodging of the Lord <hi>Mack-Gueere,</hi> alſo an Iriſhman in the City of Dub<g ref="char:EOLhyphen"/>lin. Vpon the two and twentieth of Octob. being the night before: his maſter did then and there reveal the whole plot unto him in the preſence of the Lord <hi>Mack-Gueere,</hi> and others.</p>
+            <p>This <hi>Owen Mack-Connel</hi> had married an Engliſh woman, by whom he had children living in the County of Antrim, in the Province of Vlſter, and ſhe was and is a Proteſtant; aſſoon as <hi>Owen Mack Connel</hi> had heard and underſtood the plot, and their damnable intentions, with a ſad countenance asked his Maſter what ſhould become of his wife and poor children, he replyed in theſe words: <hi>hang her Engliſh Kite, we will get thee a better Wife:</hi> But the Company perceiving that his thoughts were troubled at the relation of this horrid Tra<g ref="char:EOLhyphen"/>gedy, now to be acted on the ſtage of Ireland, that within few houres was to be in a flame of confuſi<g ref="char:EOLhyphen"/>on, the word to be given, that, man, woman, and child ſhould have been butchered the next morn<g ref="char:EOLhyphen"/>ing: the poor mans heart failed him at this helliſh and barbarous maſſacre, whereupon theſe bloody Villains, perceiving by the alteration of his coun<g ref="char:EOLhyphen"/>tenance that he approved not, or rather, like a man
+<pb facs="tcp:169431:16"/> amazed, ſtartled at ſuch a bloody motion, as to im<g ref="char:EOLhyphen"/>brue his hands of his owne deareſt wife and chil<g ref="char:EOLhyphen"/>dren, and that that is more, of his owne Country and Kingdom, they began to bethink themſelves what to do with him; they reſolved to make him drunk, and thereupon enforced him unnaturally, to drink ſo much that he could hardly drink more, yet they plyed him cloſe, he deſired to be excuſed, they to give him his load powred it downe his throat, he reſiſting ſuch unreaſonable violence, there ſteps towards him one <hi>Donal Mack-Gueere,</hi> ſaying, will you not drink your liquor, ſee if you dare deny to pledge me? thereupon ſet a piſtol to his breſt with two bullets, the pan being primed with powder and brimſtone, that ſo it might not fail to ſpeed, twice it was offered againſt him, and took no fire, whereupon Capt. <hi>Mack-Mahown</hi> ſtept in and ſaid, <hi>let him alone, God will not ſuffer him to be killed, he will be on our ſide I warrant ye.</hi> They after<g ref="char:EOLhyphen"/>wards led him from the lord <hi>Mack-Gueers</hi> lodging to Capt. <hi>Mack-Mahowns</hi> lodging, but the poor man, faining himſelf more drunk then he was, and taking the advantage of the time and place, wil<g ref="char:EOLhyphen"/>lingly fell down in a dirty channel, and was ſo bemired with mud, that none would help him up, but with much adoe he crept out of the kennel, and reeled to the ſtoop of a door, and ſate downe to ſleep, he ſeeming to ſleep, the fellow which was left with him to watch with him, departed,
+<pb facs="tcp:169431:17"/> which this <hi>Owen Mack-Connel</hi> perceiving, aſſoon as ever his back was turned, with a bold reſolution aroſe up, and went to the Marchants key in Dub<g ref="char:EOLhyphen"/>lin, between eleven and twelve of the clock at night to Sir <hi>William Parſons</hi> houſe, one of the Lord Juſtices of Ireland, where knocking at the doore, the Porter knowing him, demanded of him what he would have, he anſwered he muſt needs ſpeak with his Lord, the Porter replyed his Lord was in bed, It is no matter anſwered <hi>Owen Mack-Connel,</hi> I muſt and will ſpeak with him, for my buſineſſe concerns both King and Kingdom; then the Por<g ref="char:EOLhyphen"/>ter let him in, wondring to ſee him in ſuch a pic<g ref="char:EOLhyphen"/>kle, ſtill he haſtened the porter, until he had called up one of his Lords Gentlemen, who got up ſpee<g ref="char:EOLhyphen"/>dily, and went into his Lords bed-chamber, where he acquainted his Lord with the earneſt deſire this <hi>Owen Mack-Connel</hi> had to ſpeak with him concer<g ref="char:EOLhyphen"/>ning a buſineſſe of weighty conſequence, but would not reveal it to any but his Honour, where<g ref="char:EOLhyphen"/>upon he was called up &amp; had acceſſe to my Lord, unto whom he diſcovered the whole plot, which was to be executed the ſame morning at 9. of the clock, this being between twelve and one.</p>
+            <p>At the firſt the Lord <hi>Parſons</hi> did ſeem to ſlight it, but <hi>Owen Mack-Connel</hi> confidently affirmed the thing to be true, and withal told him thus, my lord <hi>I have diſcharged my duty and my conſcience, look you to it; I will go back to my maſter, becauſe neither he, nor the rest ſhall ſuſpect me.</hi>
+            </p>
+            <pb facs="tcp:169431:17"/>
+            <figure>
+               <p>
+                  <hi>Owen Macke-onell, who diſcouered the plot of takinge Dublin, had a Piſtoll Charaed with too Bullets the pane primed with powder &amp; Brimſtone twice offered againſt him tooke not fire, ſo the Rebells ſaid God will not ſuffer him to be killed &amp; he will be on our ſide I warrant you,</hi>
+               </p>
+               <p>
+                  <hi>This bloudy Maſacer in IRELAND by the PAPIST, began oct. y<hi rend="sup">e</hi> 23 1641</hi>
+               </p>
+               <figDesc>intaglio print of four men, one pointing a gun at another</figDesc>
+            </figure>
+            <figure>
+               <p>Owen Macke-onell leapinge ouer a wall eſcaped &amp; was ſent to our Parlament with letters &amp; was rewarded 500 lb. &amp; 200 per Annum.</p>
+               <figDesc>intaglio print of man climbing over wall</figDesc>
+            </figure>
+            <pb facs="tcp:169431:18"/>
+            <p>Your Lordſhip ſhall find my lord <hi>Mack-Gueere</hi> at M. <hi>Cadowgans</hi> houſe, and Capt. <hi>Mack-Mahowne</hi> at the Artichoak, whither I now goe. This <hi>Owen Mack-Connel</hi> going to his maſters lodging, takes dirt in his hands, and beſmuts his face, that they might think he had tumbled over and over in the dirt: whoſe approach into the room (where many were aſſembled together, drinking; for they in<g ref="char:EOLhyphen"/>tended not to go to bed) was ſo ridiculous, that the company burſt out into ſuch a laughter, the place rung of them round about: and to welcome him home, the company fell to their old courſe, to make him drink more, but he told them that he muſt needs go into the yard, ſo they ſuffered him but commanded two of his companions to attend him, and bring him up again, but they let him go into the yard by himſelf: no ſooner was he in the yard, but he leaped over the pale, and ſo eſcaped.</p>
+            <div type="part">
+               <pb facs="tcp:169431:18"/>
+               <head>A true Deſcription of ſundry ſad and lamen<g ref="char:EOLhyphen"/>table Collections, taken from the monthes of very credible Perſons, and out of Letters ſent from Ireland to this Citie of London, of the perfidious outrages and barbarous cru<g ref="char:EOLhyphen"/>elties which the Irish Papiſts have com<g ref="char:EOLhyphen"/>mitted upon the perſons of the Proteſtants, both men, women, and children in that Kingdom, ſince <hi>Anno Dom. 1641.</hi>
+               </head>
+               <p>THe Iriſh nation is a people both proud and envious. The Commonaltie ignorant and illiterate, poor, and lazie: and will rather beg or ſtarve, then work; and therefore fit ſubject for the Prieſts and Ieſuits to ſpur on upon ſuch bloudy actions and murtherous deſignes.</p>
+               <p>It is too well known that the Iriſh have mur<g ref="char:EOLhyphen"/>thered of the Proteſtant party in the provinces of Vlſter, Leinſter, Connaght, and Munſter, of men women, and children, the number of fifty thou<g ref="char:EOLhyphen"/>ſand, as it is credibly reported by Engliſhmen, who have been over all parts of the Kingdom, and do proteſt upon their oaths, that there are above five thouſand families deſtroyed.</p>
+               <p>The Iriſh have moſt murtherouſly and trayte<g ref="char:EOLhyphen"/>rouſly ſurpriſed them upon great advantages, and
+<pb facs="tcp:169431:19"/> without reſpect of perſons, either of age, youth, or infancie, of young men or maids, or of old men or babes, ſtript all to their skins, naked as ever they were born into the World, ſo they have gone out of the World, many ſtarved to death for want of food and rayment; the Iriſh have ſhewed them no more compaſſion, nor ſo much as they do to their dogs.</p>
+               <p>At <hi>Belturbait</hi> in the County of Cavan, the Po<g ref="char:EOLhyphen"/>piſh Rebels demanded the Town, on promiſe that if they would ſurrender, they ſhould paſſe free with bag and baggage: On ſerious conſiderations of the inhabitants and the Governour, they were perſwaded to yeeld it up, which when they had done; they ſent about twenty or thirty to guard them; when they had guarded them ſeven miles from the Town, they ſeiſed on them, robbed all the Proteſtants, being between five hundred and a thouſand perſons, men, women, and children: who ſubmitting themſelves to their mercy, found no quarter but cruelty: they ſtript them all naked, and turned them into the open fields in bitter cold weather, not affording them one of their lowzy rags to hide thoſe parts which even nature com<g ref="char:EOLhyphen"/>mands to be covered.</p>
+               <figure>
+                  <p>At one M<hi rend="sup">r</hi> Atkins houſe &amp; Papiſtes brake in &amp; beate out his braines, then riped upe his wife with Childe after they had rauiſhed her &amp; Nero like vewed natures bed of conception then tooke they the Childe &amp; ſacrificed it in the fire</p>
+                  <figDesc>intaglio print of two men: one cutting open a naked woman, one placing a baby in a fire</figDesc>
+               </figure>
+               <figure>
+                  <p>Engliſh Proteſtantes ſtriped naked &amp; turned into the mountaines in the froſt, &amp; ſnowe, whe<g ref="char:EOLhyphen"/>reof many hundreds are periſhed to death, &amp; many l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ynge dead in diches &amp; Sauages upbraided them ſaynge now are ye wilde Iriſch as well as wee.</p>
+                  <figDesc>intaglio print of numerous naked figures running away from men with swords drawn</figDesc>
+               </figure>
+               <p>The Lord <hi>Macquires</hi> brother at the beginning of the rebellion, for the firſt fortnight commands his ſouldiers to give quarter to women and chil<g ref="char:EOLhyphen"/>dren, but to maſſacre all the men.</p>
+               <p>The Handlowans came to <hi>Tom-regis,</hi> divers of them aſſaulted the Caſtle, of which Captain Saint <hi>Iohn</hi> was Commander, he with his ſon got away with ſome difficulty, leaping over the wall, they fearing they might fetch ſome ſupplies, took the Captains wife, and ſet her on the wall, having ſtript her to her ſmock, who was big with child, and within an hour of her deliverie, that in caſe the Captain and his ſon ſhould have aſſaulted the Towne, his wife ſhould have been the white at which he muſt have levelled.</p>
+               <p>M. <hi>Trafford</hi> a miniſter, was aſſaulted by theſe bloudy wolves, who deſired but to call upon God, yet they would admit no time, but fell on him, and hackt him to peeces.</p>
+               <figure>
+                  <p>William Harmar Leftenant under Captaine Roger Moynes in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi rend="sup">r</hi> Charles C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ots Regement Being aſked to ſerue under the Reb<g ref="char:EOLhyphen"/>bels ſaid hee c<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e not to bow the knee to Ball nor any of Ball's-preeſts ſoe hee ſtabed him into y<hi rend="sup">e</hi> belly and cauſed one to lay his hand <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the wound till the excrament came forth and when hee aſked any <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>g to ſuſtaine him they ſmetared that excr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ment upon his mouth and ſaid y<hi rend="sup">t</hi> was a cordall for him and ſoe hee liued three dayes his wife in London to teſtifie it.</p>
+                  <figDesc>intaglio print of one man stabbing another man in the stomach</figDesc>
+               </figure>
+               <figure>
+                  <p>S<hi rend="sup">r</hi>: Patrike Dunſons Wiffe rauiſhed before him, ſlew his Seruants, ſpurned his Children tell they died, bound him with Rowles of match to a Bord that his eyes burſted out<g ref="char:punc">▪</g> cut of his eares &amp; noſe teared ofe both his Cheekes after cut of his armes &amp; legges, cut out his tongue after rune a red hot Iron into him.</p>
+                  <figDesc>intaglio print of two men torturing a man and severing his limbs</figDesc>
+               </figure>
+               <figure>
+                  <p>Pulling them about the ſtreetes by the haire of the head, daſhing the Childrens braines againſt the poſtes ſaynge, these were the Pigges of the Engliſh Sowes</p>
+                  <figDesc>intaglio print of two men dragging two women by the hair and two men dashing children's heads against a wall</figDesc>
+               </figure>
+               <figure>
+                  <p>Droghedah ſo bloked up that a buſhell of wheate was ſold for 23. Skill: &amp; meate ſcar<g ref="char:EOLhyphen"/>ce to be had at any rate, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an. 4 1641.</p>
+                  <figDesc>intaglio print of a blockade during the first Siege of Drogheda</figDesc>
+               </figure>
+               <p>In the County of Roſcommon, there fled in<g ref="char:EOLhyphen"/>to the pariſh Church eleven ſcore of the Engliſh, men, women, and children, where they remain<g ref="char:EOLhyphen"/>ed three daies and nights without any ſuſtenance, till they were almoſt ſtarved: ſo that at laſt they were forced to commit themſelves to the cruelty of the Iriſh, who ſtript them naked, after drove them through the Towne like ſo many harmleſſe Lambs over a Bridge at the Townes end, having before broke downe one of the middle arches, where a ſtrong water runneth, ſo that either they muſt leap in, or come back, their intent being there to murther them, as they did: For the poor wretches being ſick, weak and faint for food and ſleep, ſome returned back, whom they killed with<g ref="char:EOLhyphen"/>out mercy, others they thruſt into the water, who were drowned: ſome that could, did ſwimme towards the ſhore, and there, inhumane villains, they ran and met them before they could get to land, and knockt them on the head in the wa<g ref="char:EOLhyphen"/>ter.</p>
+               <p>Maſter <hi>Blundry</hi> a Miniſter they hanged, af<g ref="char:EOLhyphen"/>ter pulled his fleſh from his bones in his wifes ſight.</p>
+               <pb facs="tcp:169431:22"/>
+               <figure>
+                  <p>Driuinge Men Women &amp; Children by hundreds vpon Briges &amp; caſting them into Riuers who drowned not were killed with poles &amp; ſhot with muſkets</p>
+                  <figDesc>intaglio print of people on a bridge and in a river</figDesc>
+               </figure>
+               <figure>
+                  <p>M<hi rend="sup">r</hi> Blandry Miniſter hanged after pulled his fleſh from his bones in his wiffes ſight</p>
+                  <figDesc>intaglio print of a hanged man being flayed</figDesc>
+               </figure>
+               <pb facs="tcp:169431:23"/>
+               <figure>
+                  <p>the Lord Blany forced to ride 14 Miles without Bridle or Sadell to ſaue his life, his Lady Lodged in Strawe beeing allowed 2<hi rend="sup">•</hi> a day to releue her &amp; her Children, ſlew a kindsman of hers and hanged him up before her face 2 dayes telling her ſhe muſt expect the ſame, to terrifie her the meere.</p>
+                  <figDesc>intaglio print of a hanged man and a woman with two children</figDesc>
+               </figure>
+               <figure>
+                  <p>M<hi rend="sup">r</hi> Dauenant and his Wife bound in their Chaires Striped the 2 Eldeſt Child<g ref="char:EOLunhyphen"/>ren of 7 years old roſted them upon Spittes before their Parents faces Cutt heir throte and after murdred him.</p>
+                  <figDesc>intaglio print of a man and woman tied to chairs and two children being roasted on a spit</figDesc>
+               </figure>
+               <p>At the Borough of <hi>Kello,</hi> the Rebells ſurpri<g ref="char:EOLhyphen"/>zed the houſe of one <hi>Arthur Robinſon,</hi> hee him<g ref="char:EOLhyphen"/>ſelfe being at that time in Dublin, he not knowing that the Rebels were riſen in thoſe parts there, in<g ref="char:EOLhyphen"/>tending to have gone home to his wife and family, before his appointed time to return home, a Meſ<g ref="char:EOLhyphen"/>ſenger prevented him with heavy tidings, even his only Daughter, whom hee quickly knew, though ſhe were much diſguized, for the Rebels had ſlaine moſt of his family, robbed and pillaged the houſe, after they had ſtripped his wife and ra<g ref="char:EOLhyphen"/>viſhed her, they ſought out for this young Vir<g ref="char:EOLhyphen"/>gin, who had hid her ſelf in a barne, where the Villanes found her; but ſhe made what reſiſtance ſhee could, and with a knife ſhee had (unſeene to them) wounded one of them, which the reſt per<g ref="char:EOLhyphen"/>ceiving, ſeized upon her violently, ſtripped her, &amp; then bound her with her arms abroad, in ſuch manner as ſhe could not help her ſelfe any way, and ſo deſtoured her one after another, puld the hair from her head, and cut out her tongue, be<g ref="char:EOLhyphen"/>cauſe ſhee ſhould not report the truth and their cruelty, but the maid could write though ſhe could not ſpeak, and ſo diſcovered their inhumane uſage to her and her mother. The maid was ſent with a letter from her father in Dublin, to her uncle at Mynhead in Somerſetſhire.</p>
+               <pb facs="tcp:169431:24"/>
+               <figure>
+                  <p>Arthur Robinſons daughter 14 ye<g ref="char:EOLhyphen"/>ares old the Rebbels bounde her armes a broad, deflowerd her one after an other, tell they ſpoyled he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, then pulled the haire from her head and cut out her tongue that ſhe might not tell of their Cruelty, but ſhe decla<g ref="char:EOLhyphen"/>red it by writing,</p>
+                  <figDesc>intaglio print of a man cutting out a woman's tongue</figDesc>
+               </figure>
+               <figure>
+                  <p>A Miniſter and his wife came to Du<g ref="char:EOLhyphen"/>blin, Ian: 30, 1641, left behinde him ſome goods with a ſuppoſed frend, ſent for them but could not be deliuered vnleſſe he or his wife come for them, ſhe came and preſently they hanged her upe,</p>
+                  <figDesc>intaglio print of a hanged woman with soldiers watching</figDesc>
+               </figure>
+               <pb facs="tcp:169431:25"/>
+               <p>In the County of <hi>Fermannagh,</hi> Mr <hi>Champion</hi> was betrayed by an Iriſh Villaine (his Tenant) whom he had ſaved twice before from the gallows: the rogues name was <hi>Patrick Mack-Dermot,</hi> who find<g ref="char:EOLhyphen"/>ing one of his Companions, brings him to Maſter <hi>Champion</hi>'s houſe, and tells Mr <hi>Champion</hi> that hee found this thief ſtealing of his cattle: the Gentle<g ref="char:EOLhyphen"/>man knowing this <hi>Mack-Dermot,</hi> ſaid unto him before one Mr <hi>Iremonger,</hi> I am glad thou art turn'd from a thief to catch a thief; whereupon hee re<g ref="char:EOLhyphen"/>turned him this anſwer, that Hee was no more thief than himſelfe. No ſooner had he utter'd theſe words in the Court, before his houſe, but there ruſhes in upon them a great number of rebells, who ſtabd Mr <hi>Champion</hi> before he could get into his houſe: but their fury went further, for they wounded him with their Skeins in thirty places after he was dead, and then cut off his head while the reſt ran into the houſe after Mr <hi>Iremonger,</hi> they fell upon him, and ran him thorow: Then the Rebells entered the houſe, and killed more, his wife's ſiſter and her brother in law; his wife was down on her knees to beg a ſheet, to put her huſ<g ref="char:EOLhyphen"/>bands dead body in. And other friends that came to viſit him, loſt their lives.</p>
+               <figure>
+                  <p>The Preeſtes &amp; Ieſuites anointe the Rebells with there Sacrament of vnction before they goe to murther &amp; robe aſhuringe them that for there meritorious Service<g ref="char:punc">▪</g> if they be killed he ſhall eſcape Purgatory &amp; go to heauen im<g ref="char:EOLhyphen"/>mediatly</p>
+                  <figDesc>intaglio print of a priest annointing a man</figDesc>
+               </figure>
+               <figure>
+                  <p>They do uſually mangell there dead Car<g ref="char:EOLhyphen"/>caſes layng wagens who ſhall cut deepeſt into there dead fleſh with there Skeyns.</p>
+                  <p>they deſtroy our Engliſh Sheepe in deteſta<g ref="char:EOLhyphen"/>tion of us<g ref="char:punc">▪</g> although one is better then <hi>4</hi> of theirs<g ref="char:punc">▪</g> they haue uowed to roote out the name of the Engliſh</p>
+                  <figDesc>intaglio print of two men with swords and a corpse</figDesc>
+               </figure>
+               <p>They have ſet up Gallows five miles diſtant in diverſe places, on purpoſe to hang up the Prote<g ref="char:EOLhyphen"/>ſtant Spies: they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave likewiſe ſet women and men on red hot Gridirons to make them confeſſe the mony and goods they had, or whether they have hid or ſold any.</p>
+               <figure>
+                  <p>M<hi rend="sup">r</hi>: FFordes houſe rifled, and to make her Confeſſe where her mony lay they tooke hot tonges clappinge them to the Soules of her feete &amp; to the Palmes of her handes ſo tormented her that with the paine thereof ſhee died,</p>
+                  <figDesc>intaglio print of two men torturing a woman with hot tongs</figDesc>
+               </figure>
+               <figure>
+                  <p>They haue ſet men &amp; women on hot Grideorns to make them Confeſſe whe<g ref="char:EOLhyphen"/>re there money was</p>
+                  <figDesc>intaglio print of a man being tortured with fire on a gridiron</figDesc>
+               </figure>
+               <p>Theſe bloudy Papiſts forced the Proteſtants to pull off their clothes, and then killed them, on purpoſe, that they might have their clothes with<g ref="char:EOLhyphen"/>out holes.</p>
+               <p>They have forced (as is reported) ſome to turn to their curſed bloudy Religion, and then perſwa<g ref="char:EOLhyphen"/>ded them that they were fitteſt to die, and then treacherouſly kill their bodies, and doe what in them lies to kill their ſoules.</p>
+               <p>Others they have wounded to death, and then left them languiſhing, their bellies being ript up and guts iſſuing out.</p>
+               <p>An Iriſh Rebell (as a credible friend reports) ſnatcht an innocent babe out of the arms of the mother, and caſt it into the fire before her face, but God met with this bloudy wretch: for before he went from that place, he brake his neck.</p>
+               <p>Another, <hi>Rory Macqueere,</hi> who came into an Engliſh Gentlemans houſe, and found him in his bed, and there began to cruciate and torture his naked body to make him confeſſe where his trea<g ref="char:EOLhyphen"/>ſure lay, which when this poore diſtracted Gen<g ref="char:EOLhyphen"/>tleman acknowledged, they cruelly killed him, and then ſtript his wife naked, and turned her out of doors, took his daughter and ſatisfied his beaſt<g ref="char:EOLhyphen"/>ly luſt on her, deflouring her, cut off her garments by the middle, and then turned her to the mercy of the common Souldiers, to bee abuſed at their pleaſure.</p>
+               <pb facs="tcp:169431:27" rendition="simple:additions"/>
+               <figure>
+                  <p>Hauing rauiſhed Virgens &amp; Wifes they take there Children &amp; daſe there braines againſt the Walls in ſight of there weepinge Parents &amp; after deſtro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> red them likewiſe,</p>
+                  <figDesc>intaglio print of a man dashing a child's head against a wall while a woman watches</figDesc>
+               </figure>
+               <figure>
+                  <p>M<hi rend="sup">r</hi> Trafford Miniſter of, Ireland his Body mang<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ca &amp; his members cut of</p>
+                  <figDesc>intaglio print a man being disemboweled and his limbs severed by two men</figDesc>
+               </figure>
+               <pb facs="tcp:169431:28"/>
+               <p>Pulling them about the ſtreets by the hair of the head, daſhing t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Childrens brains againſt the poſts, ſaying, <hi>Theſe were the Pigs of the English Sows.</hi>
+               </p>
+               <p>The Proteſtant Troopers marched out of Dublin, to view the Coaſts, they eſpied a Rebell hewing a woman in ſo horrid a manner that it was not poſſible to know her, having acted his Devilliſh part, he triumph'd over the dead corps, and waſhed his hands in her bloud, whereupon the Troopers apprehended this barbarous villain in the very act of crueltie, and brought him to Dublin with his hands all bloudy, and was ad<g ref="char:EOLhyphen"/>judged to be hanged immediately, hee aſcended the Ladder, and would not ſtay till the Executi<g ref="char:EOLhyphen"/>oner turned him off, but deſparately leapt off and hanged himſelf.</p>
+               <p>Theſe Villains take children and toſſe them with pitchforks like dung into Rivers: one was an eye witneſſe who ſaw a cruell wretch, throw a woman crying with teares one way, and he<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Childe with a pitchfork another way.</p>
+               <p>They have cruelly murdered women great with child, and then left them in ditches, to the fu<g ref="char:EOLhyphen"/>ry of their dogs, who have eaten the children out of the bowels of the mother.</p>
+               <figure>
+                  <p>A Woman mangled in ſo horred a man<g ref="char:cmbAbbrStroke">̄</g>er that it was not poſſible ſhee ſhould be knowne, &amp; after the Villaine waſhed his handes in her bloode, was taken by the Troopers adiuged to be hanged leaped of the lader &amp; hanged himſelfe like a Bloodey Tyger.</p>
+                  <figDesc>intaglio print of a man washing his hands in the blood of a disemboweled woman</figDesc>
+               </figure>
+               <figure>
+                  <p>Companyes of the Rebells meeting with the Engliſh flyinge for their liues, falling downe before them cryinge for mercy thruſt theire Pichforkes into their Childrens bellyes &amp; threw them into the water.</p>
+                  <figDesc>intaglio print of three women with children pleading for mercy and three soldiers impaling children with pitchforks</figDesc>
+               </figure>
+               <p>A Miniſter ſeeing his wife abuſed, and his chil<g ref="char:EOLhyphen"/>dren roaſted, deſired them to put him out of his extremity of anguiſh, to ſee ſuch crueltie on thoſe ſo neer him, they moſt inhumanely cut his tongue out of his head.</p>
+               <p>Seventeen of thoſe barbarous monſters came to a Miniſters houſe, where they violently fell on him and his wife, ſtript them naked, bound them back to back, then cut off his privy members, af<g ref="char:EOLhyphen"/>terwards raviſhed his wife on his back, and then inhumanely cut their throats.</p>
+               <p>Women were delivered whiles they were hang<g ref="char:EOLhyphen"/>ing. One ripped up, and two children taken away and all caſt unto, and eaten by ſwine. Another ſtabbed in the breaſt, her childe ſucking.</p>
+               <p>They forced 40. or 50. Proteſtants to renounce their profeſſion, and then cut all their throats.</p>
+               <p>Chriſtians have been eaten by Dogs, and Dogs tearing children out of the womb; the bloudy be<g ref="char:EOLhyphen"/>holders relate ſuch things with boaſting. Two were ſaid to be buried alive, and others that had been long buryed digged up; they ſaying that <hi>the Church could not be conſecrated whiles Hereticks bones lay therein.</hi> And in the Church of Newtown was a childe boyled alive in a Caldron.</p>
+               <figure>
+                  <p>George Forde, hanged on a tree in his owne ground, cut his fleſh, a peaces, caryng it up &amp; downe, ſainge this is the fleſh of one of the trai<g ref="char:EOLhyphen"/>tors againſt our Holy Father the Pope.</p>
+                  <figDesc>intaglio print of a hanged man with severed limbs</figDesc>
+               </figure>
+               <figure>
+                  <p>a Proclamation that nether Engliſh nor Iriſh ſhould either ſell or keepe in their houſes any Pow<g ref="char:EOLhyphen"/>der upon the loſſe of goods &amp; life nether any <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mes whatſoeuer, exept with a licenſe &amp; then but fiue pound at most, at 2 Shill y<hi rend="sup">e</hi> powd</p>
+                  <figDesc>intaglio print of three men reading a posted proclamation</figDesc>
+               </figure>
+               <p>The rebells met with a Proteſtant Miniſter at Kells, by name Mr <hi>Sharpe,</hi> who had three children, two of them on his back, and did moſt barba<g ref="char:EOLhyphen"/>rouſly hack, cut in peeces, and murther him, thruſt<g ref="char:EOLhyphen"/>ing into his body three o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> four pikes together, and then threw him into a ditch of water, where they left him.</p>
+               <p>Captain <hi>Bryan mac Mahon,</hi> of <hi>Tehollan,</hi> ſaid, hee would hang any that could ſpeak Engliſh: And a Prieſt ſaid that all the Engliſh muſt be hanged, and being asked why, hee ſaid, meat was ſcarce, and they would not be at the charge to keepe them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
